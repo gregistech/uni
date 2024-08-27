@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="338"
+   height="235"
+   id="svg1505"
+   sodipodi:version="0.32"
+   inkscape:version="0.43"
+   sodipodi:docname="Circle-trig6.svg"
+   sodipodi:docbase="/home/Omni/Desktop">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="709"
+     inkscape:window-width="1016"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1.6309809"
+     inkscape:cx="165.32398"
+     inkscape:cy="74.029336"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:current-layer="svg1505" />
+  <defs
+     id="defs1507" />
+  <circle
+     sodipodi:ry="63.280998"
+     sodipodi:rx="63.280998"
+     sodipodi:cy="87.085999"
+     sodipodi:cx="63.779999"
+     id="circle1416"
+     style="fill:none;stroke:#000000;stroke-width:0.99629998;stroke-miterlimit:10"
+     transform="matrix(1.444366,0,0,1.444366,2.498786,-0.456681)"
+     r="63.280998"
+     cy="87.085999"
+     cx="63.779999" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1418"
+     y2="125.32738"
+     x2="94.620483"
+     y1="208.82187"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10;stroke-dasharray:2.79152617, 4.18736147"
+     id="line1420"
+     y2="125.32738"
+     x2="63.913219"
+     y1="125.32738"
+     x1="94.620483"
+     stroke-miterlimit="10" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1422"
+     y2="41.835819"
+     x2="133.54907"
+     y1="125.32738"
+     x1="94.620483"
+     stroke-miterlimit="10" />
+  <line
+     style="fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10;stroke-dasharray:2.79138173, 4.18692816"
+     id="line1424"
+     y2="14.010099"
+     x2="146.52667"
+     y1="41.835819"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <line
+     style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10;font-family:Times New Roman"
+     id="line1426"
+     y2="125.32738"
+     x2="133.54907"
+     y1="208.82187"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1428"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1d0e81;font-family:Times New Roman"
+     y="140.68642"
+     x="102.57896">cos</text>
+  <line
+     style="fill:none;stroke:#1d0e81;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1430"
+     y2="125.32738"
+     x2="133.54907"
+     y1="125.32738"
+     x1="94.620483"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1432"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="140.68642"
+     x="230.62407">
+    <tspan
+       id="tspan1434"
+       style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f0037f;font-family:Times New Roman"
+       y="140.68642"
+       x="230.62407">e</tspan>
+    <tspan
+       id="tspan1436"
+       style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f0037f;font-family:Times New Roman"
+       y="140.68642"
+       x="238.04663">xsec</tspan>
+  </text>
+  <line
+     style="fill:none;stroke:#f0037f;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1438"
+     y2="125.32738"
+     x2="312.59695"
+     y1="125.32738"
+     x1="186.74069"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1440"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="140.68642"
+     x="139.17615">
+    <tspan
+       id="tspan1442"
+       style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#159133;font-family:Times New Roman"
+       y="140.68642"
+       x="139.17615">v</tspan>
+    <tspan
+       id="tspan1444"
+       style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#159133;font-family:Times New Roman"
+       y="140.68642"
+       x="147.55063">ersin</tspan>
+  </text>
+  <line
+     style="fill:none;stroke:#159133;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1446"
+     y2="125.32738"
+     x2="186.74069"
+     y1="125.32738"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1448"
+     style="font-size:17.33238029px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f88011;font-family:Times New Roman"
+     transform="matrix(0.906313,0.422606,-0.422606,0.906313,0,0)"
+     y="-21.830549"
+     x="93.768692">ctg</text>
+  <line
+     style="fill:none;stroke:#f88011;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1450"
+     y2="41.835819"
+     x2="133.54907"
+     y1="23.680128"
+     x1="94.620483"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1452"
+     style="font-size:17.33238029px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#bf803f;font-family:Times New Roman"
+     transform="matrix(0.906313,0.422606,-0.422606,0.906313,0,0)"
+     y="-21.606831"
+     x="212.09857">tg</text>
+  <line
+     style="fill:none;stroke:#bf803f;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1454"
+     y2="125.32738"
+     x2="312.59695"
+     y1="41.835819"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1456"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f671bf;fill-opacity:1;font-family:Times New Roman"
+     y="72.152161"
+     x="63.697586">csc</text>
+  <line
+     style="fill:none;stroke:#f671bf;stroke-width:1.43902183;stroke-miterlimit:10;stroke-opacity:1"
+     id="line1458"
+     y2="23.680128"
+     x2="94.620483"
+     y1="125.32738"
+     x1="94.620483"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1460"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#fb0f0c;font-family:Times New Roman"
+     y="89.922623"
+     x="135.12311">sin</text>
+  <line
+     style="fill:none;stroke:#fb0f0c;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1462"
+     y2="125.32738"
+     x2="133.54907"
+     y1="41.835819"
+     x1="133.54907"
+     stroke-miterlimit="10" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1464"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#00a0c6;font-family:Times New Roman"
+     y="168.3318"
+     x="192.58321">sec</text>
+  <line
+     style="fill:none;stroke:#00a0c6;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1466"
+     y2="150.99811"
+     x2="311.87634"
+     y1="161.07112"
+     x1="311.87634"
+     stroke-miterlimit="10" />
+  <polyline
+     style="fill:#00a0c6"
+     id="polyline1468"
+     points="205.827,111.335 214.196,108.347 205.827,105.358 205.827,108.347 "
+     transform="matrix(1.444366,0,0,1.444366,2.498786,-0.456681)" />
+  <line
+     style="fill:none;stroke:#00a0c6;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1470"
+     y2="161.07112"
+     x2="95.338348"
+     y1="150.99811"
+     x1="95.338348"
+     stroke-miterlimit="10" />
+  <polyline
+     style="fill:#00a0c6"
+     id="polyline1472"
+     points="72.646,105.358 64.277,108.348 72.646,111.335 72.646,108.348 "
+     transform="matrix(1.444366,0,0,1.444366,2.498786,-0.456681)" />
+  <line
+     style="fill:none;stroke:#00a0c6;stroke-width:1.43902183;stroke-miterlimit:10"
+     id="line1474"
+     y2="156.03751"
+     x2="107.42627"
+     y1="156.03604"
+     x1="299.78842"
+     stroke-miterlimit="10" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:0.99629998;stroke-miterlimit:10"
+     id="polyline1476"
+     points="84.954,26.585 87.65,20.807   93.428,23.502 "
+     stroke-miterlimit="10"
+     transform="matrix(1.444366,0,0,1.444366,2.498786,-0.456681)" />
+  <polyline
+     style="fill:none;stroke:#000000;stroke-width:0.99629998;stroke-miterlimit:10"
+     id="polyline1478"
+     points="57.402,87.086 57.402,80.708   63.78,80.708 "
+     stroke-miterlimit="10"
+     transform="matrix(1.444366,0,0,1.444366,2.498786,-0.456681)" />
+  <path
+     id="path1480"
+     style="fill:none;stroke:#000000;stroke-width:1.43902183;stroke-miterlimit:10"
+     d="M 106.90194,125.32739 C 106.90194,120.55376 104.13598,116.212 99.8101,114.19566" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text1482"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="180.74712"
+     x="93.077736">1</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1484"
+     style="font-size:17.33239174px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="118.1161"
+     x="111.17251">θ</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1486"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="232.57503"
+     x="131.78937">B</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1488"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="144.11469"
+     x="193.53601">D</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1490"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="118.06453"
+     x="140.82433">C</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1492"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="15.740289"
+     x="84.827667">F</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1494"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="41.302986"
+     x="144.6328">A</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1496"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="132.62781"
+     x="321.63165">E</text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text1498"
+     style="font-size:17.33239174px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Times New Roman"
+     y="144.11542"
+     x="75.359535">O</text>
+</svg>

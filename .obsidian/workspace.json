@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "006a14e8e946913f",
+    "type": "split",
+    "children": [
+      {
+        "id": "641de4493d707286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07db6ec6519dc15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Szabályos háromszögbe írt kör sugara.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f3ad0cf86bc7e2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sorozat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f7e1e01f03c2d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mértani sorozat.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15be1e8bf800b2ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc6bc129a4f5792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b34b782766f3683",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "3804f8d1201f0e5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Lagrange polyno",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "32663eb4e00f5de7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260.5
+  },
+  "right": {
+    "id": "b51438c33730a94f",
+    "type": "split",
+    "children": [
+      {
+        "id": "b853acc92f9c7884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54d49b28f52e0ee3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Szabályos háromszögbe írt kör sugara.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "958b4ef83e332429",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Szabályos háromszögbe írt kör sugara.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "72641c81935939f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "122ebc0a0248a804",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Szabályos háromszögbe írt kör sugara.md"
+              }
+            }
+          },
+          {
+            "id": "0a8f3f8e6e61dc0f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "6b34b782766f3683",
+  "lastOpenFiles": [
+    "uni-notes/mkdocs.yml",
+    "uni-notes/docs/blog/posts/hello-world.md",
+    "uni-notes/docs/javascripts/mathjax.js",
+    "uni-notes/docs/blog/posts",
+    "uni-notes/docs/blog/index.md",
+    "uni-notes/docs/Topic 1/Note 2.md",
+    "uni-notes/docs/Topic 1/Note 1.md",
+    "uni-notes/docs/Features/Text Formatting.md",
+    "uni-notes/docs/Features/Mermaid Diagrams.md",
+    "uni-notes/docs/Features/LaTeX Math Support.md",
+    "uni-notes/docs/javascripts",
+    "uni-notes/docs/index.md",
+    "uni-notes/docs/blog",
+    "uni-notes/docs/Topic 1",
+    "uni-notes/docs/Features",
+    "uni-notes/docs",
+    "uni-notes/README.md",
+    "uni-notes/LICENSE",
+    "uni-notes/2021-11-22-22-54-02.png",
+    "uni-notes/2021-11-22-22-52-49.png",
+    "uni-notes/2021-11-22-22-49-26.png",
+    "uni-notes",
+    "Háromszögbe írt kör középpontja.md",
+    "Számtani sorozat.md",
+    "calendar-settings_2024_07_28_09_32_03.txt",
+    "personalbrand/personalbrand/notes2/Marketing/LazySys/LazyCommon.md",
+    "personalbrand/personalbrand/notes2/templates/Shorts template.md",
+    "personalbrand/personalbrand/notes/Consumer behaviour.md",
+    "personalbrand/personalbrand/Projects/How to install LibreELEC on your Raspberry Pi.md",
+    "personalbrand/personalbrand/Projects/Cloudflare Tunnel/Outline.md",
+    "personalbrand/personalbrand/Projects/What's a RTOS.md",
+    "personalbrand/personalbrand/notes2/Marketing/Venalicium/General/Event.md",
+    "personalbrand/personalbrand/notes2/Marketing/LazySys/LazyGen.md",
+    "personalbrand/personalbrand/notes2/Marketing/Venalicium/General/Publisher.md",
+    "personalbrand/personalbrand/Projects/Charge your Thinkpad from your mobile charger!.md",
+    "personalbrand/personalbrand/notes2/Marketing/Venalicium/General/Painter.md",
+    "personalbrand/personalbrand/notes2/Marketing/Venalicium/General/Template.md",
+    "personalbrand/personalbrand/notes/Positive experiences in branding.md",
+    "personalbrand/personalbrand/ESP32-C3_RISC-V_NodeMCU_board.jpg",
+    "personalbrand/personalbrand/notes2/Marketing/Venalicium/General/Suggestion.md",
+    "personalbrand/personalbrand/IMG_20240731_172707.jpg",
+    "personalbrand/personalbrand/notes2/Pasted image 20240628113621.png",
+    "personalbrand/personalbrand/AALIYAH_WROTE_JAY_AN_APOLOGY_LETTER📃__MARK_WANT_DESIREE_AND_HANNAH!😱_4-32_screenshot_(1).jpg",
+    "personalbrand/personalbrand/IMG_20240731_133949.jpg",
+    "personalbrand/personalbrand/Power.png",
+    "personalbrand/personalbrand/58480e82cef1014c0b5e4927.png"
+  ]
+}

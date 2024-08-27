@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="150"
+   id="svg1870"
+   sodipodi:version="0.32"
+   inkscape:version="0.45"
+   version="1.0"
+   sodipodi:docbase="C:\Documents and Settings\JJB\My Documents\My Pictures\Electronics\Illustrations\Maths\Circumscribed Circle"
+   sodipodi:docname="Triangle Sides.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:modified="true">
+  <defs
+     id="defs1872" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10000"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="187.79845"
+     inkscape:cy="50.567389"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     width="175px"
+     height="150px"
+     showgrid="true"
+     gridoriginx="150px"
+     gridoriginy="150px"
+     inkscape:window-width="1360"
+     inkscape:window-height="874"
+     inkscape:window-x="72"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridspacingx="5px"
+     gridspacingy="5px"
+     inkscape:grid-points="true"
+     inkscape:object-points="false" />
+  <metadata
+     id="metadata1875">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="" />
+        <dc:title>Thales' theorem</dc:title>
+        <dc:date>31 jan 2007</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Erwin85</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22,-24)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 177,149 L 177,129 L 197,129"
+       id="path4405" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 32,149 L 197,149 L 197,34 L 32,149 z "
+       id="path4399"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
+       x="101"
+       y="88"
+       id="text4401"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4403"
+         x="101"
+         y="88"
+         style="font-size:24px">h</tspan></text>
+    <g
+       id="g4413"
+       transform="matrix(1.0769361,-0.1035327,0.1061074,1.0508044,-29.831566,-25.509655)"
+       inkscape:transform-center-y="-21.142948"
+       inkscape:transform-center-x="26.5147">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path4407"
+         d="M 172.46105,161.17655 L 133.39912,133.5366"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.93550539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.93550539px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 127.42862,129.05562 L 137.2017,132.44809 L 133.23194,137.78626 L 127.42862,129.05562"
+         id="path4417" />
+      <text
+         xml:space="preserve"
+         style="font-size:22.45212936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
+         x="130.81317"
+         y="178.92439"
+         id="text4442"
+         sodipodi:linespacing="100%"
+         transform="matrix(0.9830331,9.6855405e-2,-9.9264051e-2,1.0074795,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4444"
+           x="130.81317"
+           y="178.92439">c</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:22.45212936px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
+         x="214.0731"
+         y="118.35045"
+         id="text4446"
+         sodipodi:linespacing="100%"
+         transform="matrix(0.9830331,9.6855423e-2,-9.9264069e-2,1.0074795,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4448"
+           x="214.0731"
+           y="118.35045">c</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14.96808624px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
+         x="142.06847"
+         y="183.0611"
+         id="text4450"
+         sodipodi:linespacing="100%"
+         transform="matrix(0.9830331,9.6855405e-2,-9.9264051e-2,1.0074795,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4452"
+           x="142.06847"
+           y="183.0611">1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:14.96808624px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Verdana"
+         x="225.29915"
+         y="122.56018"
+         id="text4454"
+         sodipodi:linespacing="100%"
+         transform="matrix(0.9830331,9.6855427e-2,-9.9264073e-2,1.0074795,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan4456"
+           x="225.29915"
+           y="122.56018">2</tspan></text>
+    </g>
+  </g>
+</svg>

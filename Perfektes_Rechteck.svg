@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) by Marsupilami -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="791"
+   height="768"
+   viewBox="-0.96 -0.96 34.92 33.92"
+   id="svg">
+ <g stroke="#000000" stroke-width="0.15">
+  <rect height="18" width="18" y="0" x="0" fill="#ffff99"/>
+  <rect height="15" width="15" y="0" x="18" fill="#ccffcc"/>
+  <rect height="14" width="14" y="18" x="0" fill="#ffcc99"/>
+  <rect height="10" width="10" y="22" x="14" fill="#cc99ff"/>
+  <rect height="9" width="9" y="23" x="24" fill="#99ccff"/>
+  <rect height="8" width="8" y="15" x="25" fill="#ff99cc"/>
+  <rect height="7" width="7" y="15" x="18" fill="#ccffff"/>
+  <rect height="4" width="4" y="18" x="14" fill="#c0c0c0"/>
+  <rect height="1" width="1" y="22" x="24" fill="#ffffff"/>
+ </g>
+ <g font-family="sans-serif" font-size="3.5px">
+  <text y="10.274" x="6.699">18</text>
+  <text y="8.751" x="23.233">15</text>
+  <text y="26.276" x="4.6783">14</text>
+  <text y="28.274" x="16.696">10</text>
+  <text y="28.774" x="27.399">9</text>
+  <text y="20.274" x="27.887">8</text>
+  <text y="19.776" x="20.393">7</text>
+  <text y="21.094" x="15.057" font-size="3px">4</text>
+  <text y="24.665" x="21.942" font-size="3px">1</text>
+ </g>
+</svg>
+<!-- version: 20110311, original size: 33 32, border: 3% -->

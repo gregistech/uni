@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="215 82 578 401"
+   width="722.5"
+   height="501.25"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="Perpendicular-coloured.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1474"
+     inkscape:window-height="802"
+     id="namedview54"
+     showgrid="false"
+     inkscape:zoom="0.4609901"
+     inkscape:cx="193.54481"
+     inkscape:cy="215.25554"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <dc:date>2006-04-19 07:38Z</dc:date>
+    <!-- Produced by OmniGraffle Professional 4.1.1 -->
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <font-face
+       font-size="36pt"
+       units-per-em="1000"
+       underline-position="-75.683594"
+       underline-thickness="49.316406"
+       slope="0"
+       x-height="527.77777"
+       cap-height="736.11115"
+       ascent="770.01953"
+       descent="-229.98047"
+       font-weight="500"
+       id="font-face8"
+       stemv="0"
+       stemh="0"
+       accent-height="0"
+       ideographic="0"
+       alphabetic="0"
+       mathematical="0"
+       hanging="0"
+       v-ideographic="0"
+       v-alphabetic="0"
+       v-mathematical="0"
+       v-hanging="0"
+       strikethrough-position="0"
+       strikethrough-thickness="0"
+       overline-position="0"
+       overline-thickness="0">
+      <!--{
+    NSCTFontTraitsAttribute = {
+        NSCTFontProportionTrait = 0; 
+        NSCTFontSlantTrait = 0; 
+        NSCTFontSymbolicTrait = 0; 
+        NSCTFontWeightTrait = 0; 
+    }; 
+    NSFontNameAttribute = Helvetica; 
+    NSFontSizeAttribute = 36; 
+}-->
+      <font-face-src
+         id="font-face-src10">
+        <font-face-name
+           name="Helvetica"
+           id="font-face-name12" />
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g
+     style="fill:none;stroke:none"
+     id="g20"
+     transform="translate(-1.7353952,-1.6)">
+    <title
+       id="title22">Layer 1</title>
+    <path
+       style="fill:#ff9753"
+       inkscape:connector-curvature="0"
+       id="path24"
+       d="m 504.00015,360.65778 c 39.76413,-0.17353 72.13999,31.92108 72.31345,71.68515 0.17352,39.76407 -31.92096,72.13995 -71.68512,72.31347 l -0.62833,-143.99862" />
+    <path
+       style="stroke:#ba6e3c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="path26"
+       d="m 504.00015,360.65778 c 39.76413,-0.17353 72.13999,31.92108 72.31345,71.68515 0.17352,39.76407 -31.92096,72.13995 -71.68512,72.31347 l -0.62833,-143.99862" />
+    <path
+       style="fill:#6ad3e6"
+       inkscape:connector-curvature="0"
+       id="path28"
+       d="m 504.0001,504.34308 c -39.76463,0 -72.0002,-32.23558 -72.0002,-72 0,-39.76447 32.23557,-72 72.0002,-72 l 0,144" />
+    <path
+       style="stroke:#4c97a5;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="path30"
+       d="m 504.0001,504.34308 c -39.76463,0 -72.0002,-32.23558 -72.0002,-72 0,-39.76447 32.23557,-72 72.0002,-72 l 0,144" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       id="path32"
+       d="M 504.0006,432.00055 360,432 504.0006,576.00098 648,432 z" />
+    <path
+       style="stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="path34"
+       d="m 252.5,432 504,0 0,0" />
+    <path
+       style="stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
+       inkscape:connector-curvature="0"
+       id="path36"
+       d="m 504,432 0,-287 0,-1" />
+    <text
+       style="fill:#000000"
+       id="text38"
+       transform="translate(491.5,95)">
+      <tspan
+         style="font-size:45px"
+         id="tspan40"
+         textLength="24.011"
+         y="35"
+         x="0.49414063"
+         font-size="36pt">A</tspan>
+    </text>
+    <text
+       style="fill:#000000"
+       id="text42"
+       transform="translate(230.5,435)">
+      <tspan
+         style="font-size:45px"
+         id="tspan44"
+         textLength="25.997999"
+         y="35"
+         x="0.0009765625"
+         font-size="36pt">C</tspan>
+    </text>
+    <text
+       style="fill:#000000"
+       id="text46"
+       transform="translate(751.5,436)">
+      <tspan
+         style="font-size:45px"
+         id="tspan48"
+         textLength="25.997999"
+         y="35"
+         x="0.0009765625"
+         font-size="36pt">D</tspan>
+    </text>
+    <text
+       style="fill:#000000"
+       id="text50"
+       transform="translate(491.5,435)">
+      <tspan
+         style="font-size:45px"
+         id="tspan52"
+         textLength="24.011"
+         y="35"
+         x="0.49414063"
+         font-size="36pt">B</tspan>
+    </text>
+  </g>
+</svg>

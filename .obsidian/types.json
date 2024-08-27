@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "dg-show-tags": "text",
+    "dg-show-inline-title": "checkbox",
+    "dg-show-local-graph": "checkbox",
+    "dg-show-backlinks": "text",
+    "dg-show-file-tree": "checkbox"
+  }
+}

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5e -->
+
+<!-- CreationDate: Sat Nov 14 13:05:10 2015 -->
+
+<!-- Magnification: 1.050 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="428.823"
+   height="166.37126"
+   viewBox="1168 1631 5769.3425 2218.2835"
+   id="svg5079"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="is-linesegm.svg">
+  <metadata
+     id="metadata5121">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs5119" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1171"
+     inkscape:window-height="543"
+     id="namedview5117"
+     showgrid="false"
+     units="mm"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     inkscape:zoom="1.1111112"
+     inkscape:cx="198.62434"
+     inkscape:cy="83.222784"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5079" />
+  <g
+     style="fill:none;stroke-width:0.025in"
+     id="g5081"
+     transform="translate(38.671305,28.905269)">
+    <!-- Line -->
+    <polyline
+       points="1181,3543 3543,1653 "
+       style="stroke:#00b000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+       id="polyline5083" />
+    <!-- Line -->
+    <polyline
+       points="1417,1889 3779,3779 "
+       style="stroke:#0000ff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+       id="polyline5085" />
+    <!-- Line -->
+    <polyline
+       points="4248,3533 6611,1644 "
+       style="stroke:#00b000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+       id="polyline5087" />
+    <!-- Line -->
+    <polyline
+       points="4485,1880 6847,3770 "
+       style="stroke:#0000ff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:62, 62"
+       id="polyline5089" />
+    <!-- Line -->
+    <polyline
+       points="1407,3362 3324,1832 "
+       style="stroke:#00b000;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline5091" />
+    <!-- Line -->
+    <polyline
+       points="1714,2125 2793,2993 "
+       style="stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline5093" />
+    <!-- Line -->
+    <polyline
+       points="4377,3445 6295,1914 "
+       style="stroke:#00b000;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline5095" />
+    <!-- Line -->
+    <polyline
+       points="5657,2815 6551,3541 "
+       style="stroke:#0000ff;stroke-width:32;stroke-linecap:butt;stroke-linejoin:miter"
+       id="polyline5097" />
+    <!-- Circle -->
+    <circle
+       cx="2330"
+       cy="2619"
+       r="47"
+       style="fill:#ff0000;stroke:#ff0000;stroke-width:8"
+       id="circle5099"
+       sodipodi:cx="2330"
+       sodipodi:cy="2619"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 2377,2619 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="1417"
+       cy="3354"
+       r="47"
+       style="fill:#00b000;stroke:#00b000;stroke-width:8"
+       id="circle5101"
+       sodipodi:cx="1417"
+       sodipodi:cy="3354"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 1464,3354 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="3307"
+       cy="1842"
+       r="47"
+       style="fill:#00b000;stroke:#00b000;stroke-width:8"
+       id="circle5103"
+       sodipodi:cx="3307"
+       sodipodi:cy="1842"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 3354,1842 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="4392"
+       cy="3430"
+       r="47"
+       style="fill:#00b000;stroke:#00b000;stroke-width:8"
+       id="circle5105"
+       sodipodi:cx="4392"
+       sodipodi:cy="3430"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 4439,3430 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="6270"
+       cy="1922"
+       r="47"
+       style="fill:#00b000;stroke:#00b000;stroke-width:8"
+       id="circle5107"
+       sodipodi:cx="6270"
+       sodipodi:cy="1922"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 6317,1922 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="2788"
+       cy="2986"
+       r="47"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:8"
+       id="circle5109"
+       sodipodi:cx="2788"
+       sodipodi:cy="2986"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 2835,2986 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="1716"
+       cy="2136"
+       r="47"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:8"
+       id="circle5111"
+       sodipodi:cx="1716"
+       sodipodi:cy="2136"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 1763,2136 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="5664"
+       cy="2816"
+       r="47"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:8"
+       id="circle5113"
+       sodipodi:cx="5664"
+       sodipodi:cy="2816"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 5711,2816 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+    <!-- Circle -->
+    <circle
+       cx="6529"
+       cy="3526"
+       r="47"
+       style="fill:#0000ff;stroke:#0000ff;stroke-width:8"
+       id="circle5115"
+       sodipodi:cx="6529"
+       sodipodi:cy="3526"
+       sodipodi:rx="47"
+       sodipodi:ry="47"
+       d="m 6576,3526 c 0,25.9574 -21.0426,47 -47,47 -25.9574,0 -47,-21.0426 -47,-47 0,-25.9574 21.0426,-47 47,-47 25.9574,0 47,21.0426 47,47 z" />
+  </g>
+</svg>

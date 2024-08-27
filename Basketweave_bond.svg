@@ -1,0 +1,20 @@
+<svg	xmlns="http://www.w3.org/2000/svg" width="100%"
+xmlns:xlink="http://www.w3.org/1999/xlink" >
+<defs>
+
+<pattern id="bricks" patternUnits="userSpaceOnUse" x="-15" y="-15" width="210" height="210" >
+		<g id="three">
+		<rect id="B" x="2" y="2" width="31" height="101" fill="#800" stroke="#000" stroke-width="1.5"/>
+    <use xlink:href="#B" transform="translate(35,0)"/>
+		<use xlink:href="#B" transform="translate(70,0)"/>
+		</g>
+		<use xlink:href="#three" transform=" rotate(90, 105,105)"/>
+		<use xlink:href="#three" transform=" rotate(90, 0,105)"/>
+		<use xlink:href="#three" transform=" translate(105, 105)"/>
+</pattern>
+
+</defs>
+
+<rect width="400" height="400" fill="url(#bricks)"/>
+
+</svg>
